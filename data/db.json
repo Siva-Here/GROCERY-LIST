@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "checked": false,
+      "item": "hello"
+    },
+    {
+      "id": "2",
+      "checked": false,
+      "item": "bow"
+    },
+    {
+      "id": "3",
+      "checked": false,
+      "item": "meow meow"
+    },
+    {
+      "id": "4",
+      "checked": false,
+      "item": "bow  bow"
+    },
+    {
+      "id": "5",
+      "checked": false,
+      "item": "bow bow"
+    }
+  ]
+}
